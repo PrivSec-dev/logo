@@ -1,0 +1,2 @@
+# logo
+PrivSec.dev logo
